@@ -528,7 +528,7 @@ document.addEventListener('DOMContentLoaded', function() {
         closePopup();
         
         // Define the redirect URL (you can change this to any URL you want)
-        const redirectUrl = 'https://executindustrial.github.io/fmafassinclairautomotive/'; // Change this URL
+        const redirectUrl = 'https://michaellaferlla.github.io/natalierampersadcaribglas/'; // Change this URL
         
         console.log('Redirecting to:', redirectUrl);
         
